@@ -1,4 +1,4 @@
-<p align="center"><a href="#" target="_blank"><img src="typescript.png" width="100"></a></p>
+<p align="center"><img src="typescript.png" width="100"></p>
 
 ### Here are some basic and common practice of TypeScript.
 
