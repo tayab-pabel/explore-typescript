@@ -1,4 +1,4 @@
-![](typescript.png){ width=20% }
+![](typescript.png =250x250)
 
 ### Here are some basic and common practice of TypeScript.
 * Explicit Type
